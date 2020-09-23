@@ -241,6 +241,9 @@ header .navbar-brand img {
 }
 
 footer {
+	position: absolute;
+  	bottom: 0;
+  	width: 100%;
 	padding: 50px 0;
 	background: #6167C9;
 	text-align: center;
